@@ -2,6 +2,7 @@
 layout: page
 title: Todmorden
 permalink: /communities/todmorden/
+main_nav: true
 ---
 
 # How can you help

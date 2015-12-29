@@ -2,6 +2,7 @@
 layout: page
 title: Hebden Bridge
 permalink: /communities/hebden-bridge/
+main_nav: true
 ---
 
 # How can you help

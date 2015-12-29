@@ -2,6 +2,7 @@
 layout: page
 title: Mytholmroyd
 permalink: /communities/mytholmroyd/
+main_nav: true
 ---
 
 # How can you help
