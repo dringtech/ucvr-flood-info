@@ -10,4 +10,5 @@ Upper Calder Valley, including
 [Mytholmroyd](/communities/mytholmroyd/) and surrounding settlements.
 
 This is work in progress, so please alert us to any additional or incorrect
-information on the site. Our {% include icon-twitter.html username="ucvr_" text="twitter account" %} is the best route.
+information on the site. The Feedback button at the bottom of each page is the
+best route.
