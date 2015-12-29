@@ -8,4 +8,4 @@ A fund has been created for residents affected by the floods. Please donate to
 the
 [Community Foundation for Calderdale](https://localgiving.com/appeal/Flooding).
 You can donate in person at {% include icon-twitter.html
-  username="harveyshalifax" text="Harveys Department Store"%} in Halifax.
+  username="harveyshalifax" text="Harveys Department Store" %} in Halifax.
