@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Todmorden
+permalink: /communities/todmorden/
 ---
 
 # How can you help

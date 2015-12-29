@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hebden Bridge
+permalink: /communities/hebden-bridge/
 ---
 
 # How can you help

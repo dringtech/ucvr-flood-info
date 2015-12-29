@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mytholmroyd
+permalink: /communities/mytholmroyd/
 ---
 
 # How can you help
