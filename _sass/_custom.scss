@@ -1,11 +1,23 @@
 .feedback {
   a.button {
-    display: inline-block;
     background: darkred;
-    padding: 10px;
     color: white;
-    border-radius: 5px;
   }
+}
+
+a.button {
+  display: inline-block;
+  padding: 10px;
+  background: green;
+  color: white;
+  border-radius: 5px;
+  &:visited {
+    color: white;
+  }
+}
+
+.call-to-action {
+  font-size: 150%;
 }
 
 .centred {
