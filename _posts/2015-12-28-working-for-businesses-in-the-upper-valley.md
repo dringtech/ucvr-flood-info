@@ -12,7 +12,7 @@ with one united and strong voice to both Local and National Government.  Under
 one valley-wide initiative under the umbrella of the
 [Upper Calder Valley Renaissance](http://ucvr.org.uk) we are joining forces
 with the [Hebden Bridge](https://www.facebook.com/hebdenbridgebusinessforum/),
-Todmorden and Mytholmroyd business groups to do a number of things:
+[Todmorden](https://twitter.com/TBNTodBusNetwk) and Mytholmroyd business groups to do a number of things:
 
 * We will gather details from along the valley of the immediate general needs
   of businesses.
