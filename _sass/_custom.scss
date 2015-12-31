@@ -27,4 +27,11 @@ a.button {
 .site-header {
   background: green;
   color: white;
+  a {
+    color: white;
+    &:visited {
+        color: white;
+    }
+
+  }
 }
