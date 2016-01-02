@@ -1,18 +1,18 @@
 .feedback {
   a.button {
     background: darkred;
-    color: white;
+    color: $background-color;
   }
 }
 
 a.button {
   display: inline-block;
   padding: 10px;
-  background: green;
-  color: white;
+  background: $brand-color;
+  color: $background-color;
   border-radius: 5px;
   &:visited {
-    color: white;
+    color: $background-color;
   }
 }
 
@@ -25,13 +25,85 @@ a.button {
 }
 
 .site-header {
-  background: green;
-  color: white;
+  background: $brand-color;
+  color: $background-color;
   a {
-    color: white;
-    &:visited {
-        color: white;
-    }
+    color: inherit;
+    &:visited { color: inherit; }
+  }
+}
 
+.trigger {
+  & > ul {
+    margin: 0;
+    list-style: none;
+    li {
+      margin-right: 0;
+      &:not(:last-child) {
+        margin-right: 20px;
+      }
+      position: relative;
+      .submenu {
+        margin: 0;
+        padding: 5px;
+        list-style: none;
+        background-color: $background-color;
+        border: $brand-color 1px solid;
+        color: $brand-color;
+        display: none;
+        position: absolute;
+        top: 45px;
+        right: 0px;
+        width: 150px;
+        border-radius: 5px;
+        text-align: right;
+        li {
+          margin: 0;
+          line-height: 1;
+          .page-link {
+          }
+        }
+        a {
+          color: inherit;
+          &:visited { color: inherit; }
+        }
+      }
+      &:hover {
+        .submenu {
+          display: inline-block;
+        }
+      }
+    }
+    & > li {
+      display: inline-block;
+    }
+  }
+}
+
+@include media-query($on-palm) {
+  .trigger {
+    color: $brand-color;
+    a {
+      color: inherit;
+      &:visited {
+        color: inherit;
+      }
+    }
+    ul {
+      & > li {
+        display: block;
+      }
+      li {
+        .submenu {
+          font-style: italic;
+          display: block;
+          position: static;
+          border: none;
+        }
+        &:hover .submenu {
+          display: block;
+        }
+      }
+    }
   }
 }

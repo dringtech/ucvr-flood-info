@@ -1,0 +1,18 @@
+- title: "Home"
+  href: "/"
+
+- title: "Communities"
+  href: "/communities/"
+  submenu:
+    - title: "Todmorden"
+      href: "/communities/todmorden/"
+    - title: "Hebden Bridge"
+      href: "/communities/hebden-bridge/"
+    - title: "Mytholmroyd"
+      href: "/communities/mytholmroyd/"
+
+- title: "Resources"
+  href: "/resources/"
+  submenu:
+    - title: "Flood Resilience"
+      href: "/resources/flood-resilience/"
