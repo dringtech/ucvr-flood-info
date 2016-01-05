@@ -1,6 +1,12 @@
 - title: "Home"
   href: "/"
 
+- title: "Business"
+  href: "/business/"
+  submenu:
+    - title: "Hebden Bridge"
+      href: "/business/hebden-bridge"
+
 - title: "Communities"
   href: "/communities/"
   submenu:
