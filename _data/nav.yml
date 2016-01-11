@@ -7,6 +7,12 @@
     - title: "Hebden Bridge"
       href: "/business/hebden-bridge"
 
+- title: "Funding"
+  href:  "/funding/"
+  submenu:
+    - title: "Repair & Renew Grant"
+      href: /funding/repair-and-renew-grant/
+
 - title: "Communities"
   href: "/communities/"
   submenu:
