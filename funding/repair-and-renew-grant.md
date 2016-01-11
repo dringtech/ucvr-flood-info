@@ -34,7 +34,7 @@ pre-filled forms to simplify the process for business owners.
 Applications can be made up to 31st March 2016, and work should be completed
 before 30th September 2016. The council will consider retrospective
 applications for work undertaken, although it is clearly preferable to get
-be better to get advice in advance.
+advice and grant approval in advance.
 
 [CALDERDALE_BIZ_SUPPORT]: http://www.calderdale.gov.uk/environment/flooding/help-available.html#business
 [GUIDANCE_DOC]: http://www.calderdale.gov.uk/environment/flooding/Repair-Renew-Grant-Scheme_Guidance-Document_Jan2016.pdf
