@@ -3,6 +3,9 @@
     background: darkred;
     color: $background-color;
   }
+  @media print {
+    display: none;
+  }
 }
 
 a.button {
@@ -37,6 +40,9 @@ a.button {
   & > ul {
     margin: 0;
     list-style: none;
+    @media print {
+      display: none;
+    }
     & > li {
       margin-right: 0;
       &:not(:last-child) {
