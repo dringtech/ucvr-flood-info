@@ -10,6 +10,10 @@
 - title: "Funding"
   href:  "/funding/"
   submenu:
+    - title: "Business Flood Recovery Grant"
+      href: /funding/business-flood-recovery-grant/
+    - title: "Calderdale Rising Crowdfunder"
+      href: /funding/calderdale-rising-crowdfund/
     - title: "Repair & Renew Grant"
       href: /funding/repair-and-renew-grant/
 

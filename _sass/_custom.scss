@@ -3,6 +3,9 @@
     background: darkred;
     color: $background-color;
   }
+  @media print {
+    display: none;
+  }
 }
 
 a.button {
@@ -37,7 +40,10 @@ a.button {
   & > ul {
     margin: 0;
     list-style: none;
-    li {
+    @media print {
+      display: none;
+    }
+    & > li {
       margin-right: 0;
       &:not(:last-child) {
         margin-right: 20px;
@@ -54,13 +60,13 @@ a.button {
         position: absolute;
         top: 45px;
         right: 0px;
-        width: 150px;
         border-radius: 5px;
         text-align: right;
         li {
           margin: 0;
           line-height: 1;
           .page-link {
+            white-space: nowrap;
           }
         }
         a {
@@ -92,13 +98,17 @@ a.button {
     ul {
       & > li {
         display: block;
-      }
-      li {
+        margin-right: 25px;
+
         .submenu {
           font-style: italic;
           display: block;
           position: static;
           border: none;
+          width: 250px;
+          li .page-link {
+            white-space: normal;
+          }
         }
         &:hover .submenu {
           display: block;
@@ -106,4 +116,24 @@ a.button {
       }
     }
   }
+}
+
+@mixin small-image() {
+  @content;
+  width: 200px;
+  @include media-query($on-palm) {
+    float: none;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.small-image-left {
+  @include small-image() { float: left; }
+}
+
+.small-image-right {
+  @include small-image() { float: right; }
 }
