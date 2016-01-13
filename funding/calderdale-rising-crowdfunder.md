@@ -11,7 +11,7 @@ title: Calderdale Rising Crowdfund
 Business for Calderdale, with the support of the Community Foundation For Calderdale are launching a crowdfunding initiative aimed at raising money for businesses.
 This will be run as a collaborative effort, with all participant businesses sharing in the proceeds of the fund.
 
-The initial application deadline was Tuesday 12th January. Any businesses successful in applying to join this initiative will have an equal full share in the proceeds. The date has since been extended until Thursday 21st January. And subsequent businesses will each take a half-share (i.e. half the amount of the initial tranche).
+The initial application deadline was Tuesday 12th January. Any businesses successful in applying to join this initiative will have an equal full share in the proceeds. The date has since been **extended until 5.00pm Thursday 21st January**. Any subsequent businesses will each take a half-share (i.e. half the amount of the businesses in the initial tranche).
 
 Businesses interested in participating for this should send an email
 to <kirsty@thecfn.org.uk>
