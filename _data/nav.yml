@@ -17,16 +17,6 @@
     - title: "Repair & Renew Grant"
       href: /funding/repair-and-renew-grant/
 
-- title: "Communities"
-  href: "/communities/"
-  submenu:
-    - title: "Todmorden"
-      href: "/communities/todmorden/"
-    - title: "Hebden Bridge"
-      href: "/communities/hebden-bridge/"
-    - title: "Mytholmroyd"
-      href: "/communities/mytholmroyd/"
-
 - title: "Resources"
   href: "/resources/"
   submenu:
