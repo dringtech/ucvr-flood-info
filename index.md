@@ -5,9 +5,9 @@ layout: page
 Welcome to the Upper Calder Valley Renaissance Flood Coordination page.
 This site has been set up in response to the floods which affected the
 Upper Calder Valley, including
-[Todmorden](/communities/todmorden/),
-[Hebden Bridge](/communities/hebden-bridge/),
-[Mytholmroyd](/communities/mytholmroyd/) and surrounding settlements.
+Todmorden,
+Hebden Bridge,
+Mytholmroyd and surrounding settlements.
 
 ## Recent updates:
 
