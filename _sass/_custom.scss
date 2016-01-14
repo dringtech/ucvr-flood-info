@@ -137,3 +137,13 @@ a.button {
 .small-image-right {
   @include small-image() { float: right; }
 }
+
+@media print {
+  .page-content {
+    a:after {
+      content: " (" attr(href) ") ";
+      font-size: 0.8em;
+      font-weight: normal;
+    }
+  }
+}
