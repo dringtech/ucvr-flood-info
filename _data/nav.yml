@@ -20,5 +20,7 @@
 - title: "Resources"
   href: "/resources/"
   submenu:
+    - title: "Organisations"
+      href: "/resources/organisations/"
     - title: "Flood Resilience"
       href: "/resources/flood-resilience/"
