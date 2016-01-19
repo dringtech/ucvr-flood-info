@@ -18,7 +18,7 @@
       href: /funding/repair-and-renew-grant/
     - title: "Business Rates Relief"
       href: /funding/business-rates/
-
+      
 - title: "Resources"
   href: "/resources/"
   submenu:
@@ -26,3 +26,5 @@
       href: "/resources/organisations/"
     - title: "Flood Resilience"
       href: "/resources/flood-resilience/"
+    - title: "Offers of Assistance"
+      href: "/resources/assistance/"
