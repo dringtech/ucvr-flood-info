@@ -16,7 +16,7 @@ permalink: /resources/social-media/
 ## Twitter
 
 * {% include icon-twitter.html username="ucvr_" %}
-* {% include twitter-icon.html username="hb_partnership" %}
-* {% include twitter.html username="hbbusinessforum" %}
+* {% include icon-twitter.html username="hb_partnership" %}
+* {% include icon-twitter.html username="hbbusinessforum" %}
 
 
