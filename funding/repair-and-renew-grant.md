@@ -36,6 +36,9 @@ before 30th September 2016. The council will consider retrospective
 applications for work undertaken, although it is clearly preferable to get
 advice and grant approval in advance.
 
+Contact the Council business support team on 01422 392222 or
+<business@calderdale.gov.uk> for further details.
+
 [CALDERDALE_BIZ_SUPPORT]: http://www.calderdale.gov.uk/environment/flooding/help-available.html#business
 [GUIDANCE_DOC]: http://www.calderdale.gov.uk/environment/flooding/Repair-Renew-Grant-Scheme_Guidance-Document_Jan2016.pdf
 [PLPCT]: http://www.nationalfloodforum.org.uk/property-level-protection-community-tool/

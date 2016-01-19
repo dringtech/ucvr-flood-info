@@ -2,7 +2,7 @@
 layout: page
 permalink: /funding/business-flood-recovery-grant/
 title: Business Flood Recovery Grant
-updated: 2016-01-13
+updated: 2016-01-19
 ---
 
 Calderdale Council have announced a Business Flood Recovery Grant, aimed at
@@ -19,7 +19,8 @@ by sending an [application form][APPLICATION] along with a completed
 [BACS form][BACS_FORM].
 
 Please refer to the [council's website][CALDERDALE_BIZ_SUPPORT] for updated
-information.
+information, and contact the Council business support team on 01422 392222 or
+<business@calderdale.gov.uk> for further details.
 
 [CALDERDALE_BIZ_SUPPORT]: http://www.calderdale.gov.uk/environment/flooding/help-available.html#business
 [ELIGIBILITY]: https://www.calderdale.gov.uk/environment/flooding/Flood-Relief-Businesses.pdf
